@@ -1,0 +1,6 @@
+crypto
+pyfiglet
+pycryptodome
+randomname
+pytest-shutil
+colorama
