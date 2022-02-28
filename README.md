@@ -1,4 +1,4 @@
-<h1 align="center">Fortuna Crypter FUD</h1>
+<h1 align="center">Fortuna Crypter Loader and Injector FUD</h1>
 <p align="center">
     <img src="repo_images/Fortuna_cover.jpeg" alt="Logo"><br>
     A Ransomware Builder and Crypter target Windows operating system --- Fully Undetectable as of data 27.02.22
